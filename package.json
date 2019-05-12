@@ -1,8 +1,8 @@
 {
   "name": "nodejs-image-demo",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "nodejs image demo",
-  "author": "katjuell <kathleenjuell@gmail.com>",
+  "author": "John Serrano web@johnserrano.co",
   "license": "MIT",
   "main": "app.js",
   "repository": {
@@ -18,5 +18,8 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "mongoose": "^5.4.10"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }   
 }
